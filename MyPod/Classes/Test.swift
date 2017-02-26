@@ -9,5 +9,9 @@
 import Foundation
 
 public func printHelloPod() {
-    print("Hello my pod.")
+    print("这是0.0.1版本")
+}
+
+public func tag002() {
+    print("这是0.0.2版本")
 }
