@@ -15,3 +15,7 @@ public func printHelloPod() {
 public func tag002() {
     print("这是0.0.2版本")
 }
+
+func tag003() {
+    print("wait tag")
+}
